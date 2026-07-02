@@ -1,0 +1,5 @@
+#Librerias utilizadas para el proyecto
+pandas==3.0.2
+numpy==2.4.4
+seaborn==0.13.2
+matplotlib==3.10.9
